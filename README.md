@@ -13,22 +13,20 @@ Antes de comenzar verifica si tienes composer con cualquiera de los siguientes c
 composer --version 
 composer -v
 ```
-Si no lo tienes instalado lo pueden instalar siguiendo la documentación oficial en:
-https://getcomposer.org/doc/00-intro.md
+Si no lo tienes instalado lo pueden instalar siguiendo la documentación oficial en:  https://getcomposer.org/doc/00-intro.md
 
 Verifica tambien la version de NPM en la terminal con
 ```
 npm --version
 ```
-Si no lo tienes instalado lo pueden instalar siguiendo la documentación oficial en:
-https://www.npmjs.com/get-npm
+Si no lo tienes instalado lo pueden instalar siguiendo la documentación oficial en:  https://www.npmjs.com/get-npm
 
 Verifica las versiones de cada uno de ellos
 
-Versión PHP - 7.4.2 |
-Versión Mysql - 5.7.26 |
-Versión Composer - 1.10.1 |
-Versión NPM - 7.0.10 |
+Versión PHP - 7.4.2  
+Versión Mysql - 5.7.26  
+Versión Composer - 1.10.1  
+Versión NPM - 7.0.10  
 
 ### Instalación 🔧
 
@@ -91,5 +89,5 @@ _Si todo está correcto puede acceder al proyecto en la dirección http://localh
 
 
 ---
-[Jorge Edo. Hernández](https://github.com/jorgehernandezch)
+[Jorge Edo. Hernández](https://github.com/jorgehernandezch)  
 _Ingeniero y Desarrollador Web_
