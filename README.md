@@ -1,28 +1,38 @@
-# Título del Proyecto
-
-Laravel 8 con AdminLTE
+# Laravel 8 con Platilla AdminLTE
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
+_Sigue las siguientes instruscciones para clonar este repositorio en tu máquina local y poder trabajar desde el principio con la plantilla AdminLTE en Laravel 8._
 
 ### Pre-requisitos 📋
 
-Versión PHP - 7.4.2
-Versión Mysql - 5.7.26
-Versión Composer - 1.10.1
-Versión NPM - 7.0.10
+Para clonar este repositorio, debes tener instalado un servidor Apache, PHP y MSQL (Wamp, Xampp, Mamp o Lamp) y los gerenciadores de dependencias para PHP (Composer) y para NodeJs (Npm).
 
+Antes de comenzar verifica si tienes composer con cualquiera de los siguientes comandos en tu terminal.
 ```
-Da un ejemplo
+composer --version 
+composer -v
 ```
+Si no lo tienes instalado lo pueden instalar siguiendo la documentación oficial en:
+https://getcomposer.org/doc/00-intro.md
+
+Verifica tambien la version de NPM en la terminal con
+```
+npm --version
+```
+Si no lo tienes instalado lo pueden instalar siguiendo la documentación oficial en:
+https://www.npmjs.com/get-npm
+
+Verifica las versiones de cada uno de ellos
+
+Versión PHP - 7.4.2 |
+Versión Mysql - 5.7.26 |
+Versión Composer - 1.10.1 |
+Versión NPM - 7.0.10 |
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Sigue las siguientes instrucciones para clonar el repositorio_
 
 _Clone el repositorio_
 
@@ -81,4 +91,5 @@ _Si todo está correcto puede acceder al proyecto en la dirección http://localh
 
 
 ---
-<!-- ⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊 -->
+[Jorge Edo. Hernández](https://github.com/jorgehernandezch)
+_Ingeniero y Desarrollador Web_
