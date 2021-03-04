@@ -64,11 +64,6 @@ _Genere una nueva Key para el protecto con_
 ```
 php artisan key:generate
 ```
-_Genere una nueva Key para el protecto con_
-
-```
-php artisan key:generate
-```
 
 _Corra las migraciones del proyecto con_
 
@@ -87,7 +82,7 @@ _Corra el proyecto con_
 php artisan serve
 ```
 
-_Si todo está correcto puede acceder al proyecto en la dirección http://localhost:8000_
+_Si todo está correcto puede acceder al proyecto en la dirección http://localhost:8000_ con el Usuario admin@admin.com - Admin
 
 
 ---
